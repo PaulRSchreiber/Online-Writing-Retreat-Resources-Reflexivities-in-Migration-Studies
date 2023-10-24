@@ -1,0 +1,179 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#Beschriftungen": {
+            "scaleInDock": 0.75
+        },
+        "#Deco": {
+            "scaleInDock": 1
+        },
+        "#Furniture": {
+            "scaleInDock": 1
+        },
+        "#Greenery": {
+            "scaleInDock": 1
+        },
+        "#Items": {
+            "scaleInDock": 1
+        },
+        "#Room": {
+            "scaleInDock": 0.75
+        },
+        "#Room grey": {
+            "scaleInDock": 1
+        },
+        "#Seats": {
+            "scaleInDock": 1
+        },
+        "#Tables": {
+            "scaleInDock": 1
+        },
+        "#Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 419.33333333333337,
+                "y": 1134
+            }
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Beschriftungen": {
+            "scaleInDock": 0.75
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Deco": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Furniture": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Greenery": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Items": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Room": {
+            "scaleInDock": 0.75
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Room grey": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Seats": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Tables": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx#Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj": {
+            "scale": 0.6004536290322581,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.2914463191471,
+                "y": 337.24502644170235
+            }
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json": {
+            "scale": 0.5161,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 714.0089130013562,
+                "y": 880.643286184848
+            }
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#Beschriftungen": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#FV_Tiles3": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Room_Builder2": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Room_Builder3": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Downloads/map2.json#WA_Tables": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "/Users/hanakoblitz/Downloads",
+    "map.height": 55,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 45,
+    "openFiles": [
+    ],
+    "project": "map.tiled-project",
+    "recentFiles": [
+        "/Users/hanakoblitz/Documents/GitHub/untitled.tmx",
+        "/Users/hanakoblitz/Downloads/map2.json",
+        "/Users/hanakoblitz/Downloads/map.tmj"
+    ],
+    "tileset.embedInMap": true
+}
