@@ -39,6 +39,56 @@
         "#Zones": {
             "scaleInDock": 1
         },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json": {
+            "scale": 0.4538888888888889,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 721.5422276621787,
+                "y": 880.1713586291309
+            }
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles2": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles3": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Room_Builder2": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Room_Builder3": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Tables": {
+            "scaleInDock": 1
+        },
         "/Users/hanakoblitz/Documents/GitHub/untitled.tmx": {
             "scale": 0.75,
             "selectedLayer": 2,
@@ -160,6 +210,44 @@
             "scaleInDock": 1
         },
         "/Users/hanakoblitz/Downloads/map2.json#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 0.6588709677419355,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 497.06242350061194,
+                "y": 336.18115055079545
+            }
+        },
+        "map.json#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "map.json#WA_User_Interface": {
             "scaleInDock": 1
         }
     },
