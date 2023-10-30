@@ -9,6 +9,9 @@
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
         "#Beschriftungen": {
             "scaleInDock": 0.75
         },
@@ -39,12 +42,56 @@
         "#Zones": {
             "scaleInDock": 1
         },
-        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json": {
-            "scale": 0.4538888888888889,
-            "selectedLayer": 0,
+        "/Users/hanakoblitz/Desktop/space.tmj": {
+            "scale": 0.5030681818181818,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 721.5422276621787,
-                "y": 880.1713586291309
+                "x": 720.5782697086063,
+                "y": 881.5902416986673
+            }
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#FV_Tiles3": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Room_Builder2": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Room_Builder3": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Desktop/space.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json": {
+            "scale": 0.75,
+            "selectedLayer": 23,
+            "viewCenter": {
+                "x": 732.6666666666666,
+                "y": 787.3333333333333
             }
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles": {
@@ -54,7 +101,8 @@
             "scaleInDock": 1
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles3": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Decoration": {
             "scaleInDock": 1
@@ -75,7 +123,8 @@
             "scaleInDock": 1
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Room_Builder2": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#WA_Room_Builder3": {
             "scaleInDock": 1
@@ -213,12 +262,19 @@
             "scaleInDock": 1
         },
         "map.json": {
-            "scale": 0.6588709677419355,
-            "selectedLayer": 0,
+            "expandedGroupLayers": [
+                52
+            ],
+            "scale": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 497.06242350061194,
-                "y": 336.18115055079545
+                "x": 1015.5,
+                "y": 921.5
             }
+        },
+        "map.json#FV_Tiles3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json#WA_Decoration": {
             "scaleInDock": 1
@@ -227,7 +283,8 @@
             "scaleInDock": 1
         },
         "map.json#WA_Logo_Long": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json#WA_Miscellaneous": {
             "scaleInDock": 1
@@ -237,6 +294,10 @@
         },
         "map.json#WA_Room_Builder": {
             "scaleInDock": 1
+        },
+        "map.json#WA_Room_Builder2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "map.json#WA_Seats": {
             "scaleInDock": 1
@@ -249,9 +310,12 @@
         },
         "map.json#WA_User_Interface": {
             "scaleInDock": 1
+        },
+        "map.json#pixil-frame-0-2": {
+            "scaleInDock": 1
         }
     },
-    "last.imagePath": "/Users/hanakoblitz/Downloads",
+    "last.imagePath": "/Users/hanakoblitz/Documents/GitHub/Online-Writing-Retreat-Resources-Reflexivities-in-Migration-Studies/tilesets",
     "map.height": 55,
     "map.lastUsedFormat": "tmx",
     "map.width": 45,
