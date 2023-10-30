@@ -44,10 +44,10 @@
         },
         "/Users/hanakoblitz/Desktop/space.tmj": {
             "scale": 0.5030681818181818,
-            "selectedLayer": 3,
+            "selectedLayer": 13,
             "viewCenter": {
                 "x": 720.5782697086063,
-                "y": 881.5902416986673
+                "y": 575.468714705218
             }
         },
         "/Users/hanakoblitz/Desktop/space.tmj#FV_Tiles3": {
@@ -88,10 +88,10 @@
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json": {
             "scale": 0.75,
-            "selectedLayer": 23,
+            "selectedLayer": 19,
             "viewCenter": {
                 "x": 732.6666666666666,
-                "y": 787.3333333333333
+                "y": 784.6666666666667
             }
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles": {
@@ -265,11 +265,11 @@
             "expandedGroupLayers": [
                 52
             ],
-            "scale": 1,
-            "selectedLayer": 5,
+            "scale": 0.5,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 1015.5,
-                "y": 921.5
+                "x": 813,
+                "y": 865
             }
         },
         "map.json#FV_Tiles3": {
