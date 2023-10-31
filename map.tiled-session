@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json",
+    "activeFile": "map.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -46,8 +46,8 @@
             "scale": 0.5030681818181818,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 721.5721707702735,
-                "y": 575.468714705218
+                "x": 720.5782697086064,
+                "y": 880.5963406370003
             }
         },
         "/Users/hanakoblitz/Desktop/space.tmj#FV_Tiles3": {
@@ -90,8 +90,8 @@
             "scale": 0.75,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 606.6666666666667,
-                "y": 1126
+                "x": 719.3333333333333,
+                "y": 879.9999999999999
             }
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles": {
@@ -264,14 +264,14 @@
         "map.json": {
             "expandedGroupLayers": [
                 52,
-                85,
-                83
+                83,
+                85
             ],
             "scale": 0.5,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 638,
-                "y": 865
+                "x": 721,
+                "y": 868
             }
         },
         "map.json#FV_Tiles3": {
@@ -328,9 +328,9 @@
     ],
     "project": "map.tiled-project",
     "recentFiles": [
-        "map.json",
         "/Users/hanakoblitz/Desktop/space.tmj",
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json",
+        "map.json",
         "/Users/hanakoblitz/Documents/GitHub/untitled.tmx",
         "/Users/hanakoblitz/Downloads/map2.json",
         "/Users/hanakoblitz/Downloads/map.tmj"
