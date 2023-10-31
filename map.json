@@ -271,19 +271,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/drive.google.com\/drive\/folders\/17o1HN3NrocWkvMCnbwTLxgdnigk9jRY1?usp=drive_link"
                         }, 
                         {
-                         "name":"openWebsiteTrigger",
+                         "name":"openTabTrigger",
                          "type":"string",
                          "value":"onaction"
                         }, 
                         {
-                         "name":"openWebsiteTriggerMessage",
+                         "name":"openTabTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to open Google Drive "
+                         "value":"Press SPACE to open Infos"
                         }],
                  "type":"tilelayer",
                  "visible":true,

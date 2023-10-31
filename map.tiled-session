@@ -47,7 +47,7 @@
             "selectedLayer": 0,
             "viewCenter": {
                 "x": 721.5721707702735,
-                "y": 880.5963406370003
+                "y": 575.468714705218
             }
         },
         "/Users/hanakoblitz/Desktop/space.tmj#FV_Tiles3": {
@@ -88,10 +88,10 @@
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json": {
             "scale": 0.75,
-            "selectedLayer": 19,
+            "selectedLayer": 7,
             "viewCenter": {
-                "x": 723.3333333333333,
-                "y": 1127.3333333333333
+                "x": 606.6666666666667,
+                "y": 1126
             }
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles": {
@@ -268,10 +268,10 @@
                 83
             ],
             "scale": 0.5,
-            "selectedLayer": 0,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 720,
-                "y": 868
+                "x": 638,
+                "y": 865
             }
         },
         "map.json#FV_Tiles3": {
