@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json",
     "expandedProjectPaths": [
         "."
     ],
@@ -44,10 +44,10 @@
         },
         "/Users/hanakoblitz/Desktop/space.tmj": {
             "scale": 0.5030681818181818,
-            "selectedLayer": 13,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 720.5782697086063,
-                "y": 575.468714705218
+                "x": 721.5721707702735,
+                "y": 880.5963406370003
             }
         },
         "/Users/hanakoblitz/Desktop/space.tmj#FV_Tiles3": {
@@ -90,8 +90,8 @@
             "scale": 0.75,
             "selectedLayer": 19,
             "viewCenter": {
-                "x": 732.6666666666666,
-                "y": 1138
+                "x": 723.3333333333333,
+                "y": 1127.3333333333333
             }
         },
         "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json#FV_Tiles": {
@@ -263,15 +263,15 @@
         },
         "map.json": {
             "expandedGroupLayers": [
-                83,
+                52,
                 85,
-                52
+                83
             ],
             "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 813,
-                "y": 865
+                "x": 720,
+                "y": 868
             }
         },
         "map.json#FV_Tiles3": {
@@ -322,9 +322,15 @@
     "map.lastUsedFormat": "tmx",
     "map.width": 45,
     "openFiles": [
+        "map.json",
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json",
+        "/Users/hanakoblitz/Desktop/space.tmj"
     ],
     "project": "map.tiled-project",
     "recentFiles": [
+        "map.json",
+        "/Users/hanakoblitz/Desktop/space.tmj",
+        "/Users/hanakoblitz/Documents/GitHub/FASTVANILLA/map2.json",
         "/Users/hanakoblitz/Documents/GitHub/untitled.tmx",
         "/Users/hanakoblitz/Downloads/map2.json",
         "/Users/hanakoblitz/Downloads/map.tmj"
